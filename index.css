@@ -24,10 +24,9 @@ button {
     color: white;
     cursor: pointer;
     outline: none;
-    color
 }
 
-#stopwatch {
+#stopwatch{
     font-size: 100px;
     position: absolute;
     color: #66ff99;
@@ -35,6 +34,7 @@ button {
     left: 50%;
     transform: translate(-50%, -55%);
 }
+
 #buttons {
     position: absolute;
     top: 55%;
